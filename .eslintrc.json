@@ -4,6 +4,9 @@
     "React": "readonly"
   },
   "rules": {
-    "no-unused-vars": ["error", { "varsIgnorePattern": "^__", "argsIgnorePattern": "^__" }]
+    "no-unused-vars": [
+      "error",
+      { "varsIgnorePattern": "^__", "argsIgnorePattern": "^__" }
+    ]
   }
 }
